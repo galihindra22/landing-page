@@ -1,0 +1,52 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.main, .footer, .header{
+    background-color: #1F2937;
+}
+
+.main{
+    display: flex;
+}
+
+h1, .header, .footer{
+    color: #F9FAF8;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+li, .main-left{
+    font-size: 18px;
+    color: #E5E7EB;
+} 
+
+.header{
+    font-size: 24px;
+    display: flex;
+}
+
+.contact, button{
+    background-color: #3882F6;
+}
+
+h2, blockquote{
+    font-size: 36px;
+    color: #1F2937;
+    
+}
+
+h2{
+    font-weight: 900;
+}
+.quote{
+    background-color: #E5E7EB;
+}
+
+blockquote{
+    font-weight: 300;
+    font-style: italic;
+}
